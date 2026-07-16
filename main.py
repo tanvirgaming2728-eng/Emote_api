@@ -449,8 +449,8 @@ def run_flask():
 async def MaiiiinE():
     global loop, key, iv, region, BOT_UID
 
-    BOT_UID = int('16198983266')  # <-- FIXED BOT UID
-    Uid, Pw = 'UID', 'PASSWORD'
+    BOT_UID = int('16280162453')  # <-- FIXED BOT UID
+    Uid, Pw = '5457800913', 'ITACHI_X_TXefue3E'
 
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
